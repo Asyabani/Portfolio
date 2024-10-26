@@ -1275,3 +1275,23 @@ body{
     width: 33.333333%;
   }
 }
+.card-body{
+  background-color: rgb(255, 255, 255);
+  padding: 6px;
+  height: 240px;
+  border-radius: 6px;
+
+}
+.card-body-cert{
+  background-color: rgb(255, 255, 255);
+  padding: 6px;
+  height: 340px;
+  border-radius: 6px;
+
+}
+.object-fit-cover{
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  border-radius: 6px;
+}
